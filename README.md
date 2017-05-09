@@ -1,2 +1,2 @@
-# composer install
-# php artisan key:generate
+<p>composer install</p>
+<p>php artisan key:generate</p>
